@@ -34,10 +34,10 @@ e-mail: juanivancruz@me.com
 - Implemented macros to expedite NPI setup.
 
 # Education
-Tecnológico de Monterrey – Jul’24 – *Agile Project Management*.
-University of Texas at Austin / Great Learning –Nov’22 - *Post-Graduate Program, Data Science and Business Analytics*.
-Tecnológico de Monterrey – Sep’21 - *Certificate of High Specialty in Decision Making Under Deep Uncertainty*.
-Tecnológico de Monterrey – Dec’09 - *Bachelor of Science in Biotechnology*.
+- Tecnológico de Monterrey – Jul’24 – *Agile Project Management*.
+- University of Texas at Austin / Great Learning –Nov’22 - *Post-Graduate Program, Data Science and Business Analytics*.
+- Tecnológico de Monterrey – Sep’21 - *Certificate of High Specialty in Decision Making Under Deep Uncertainty*.
+- Tecnológico de Monterrey – Dec’09 - *Bachelor of Science in Biotechnology*.
 
 # Software
 - MS Office

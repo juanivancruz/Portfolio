@@ -1,8 +1,8 @@
-# Juan Ivan Misael Cruz Padilla
+# Technical Manager
 
 ## Contact
-Mobile: +52-868-250-2172
-e-mail: juanivancruz@me.com
+- Mobile: +52-868-250-2172
+- e-mail: juanivancruz@me.com
 
 ## Experience
 **KEMET a YAGEO Company**

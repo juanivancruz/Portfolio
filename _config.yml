@@ -2,5 +2,5 @@ title: Juan Ivan Cruz
 logo: /assets/PP03.jpg
 description: Resume site
 email: "juanivancruz@me.com"
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal

@@ -1,8 +1,11 @@
 # Technical Manager
-
+Strong focus on business goals and 14+ years of experience in Engineering. Skilled problem-solver, resource optimizer, and people developer. Achieved a manufacturing transfer involving automotive products, -61% in NPI set-up times, +15% in product FPA, and developed improved product prototypes.
 ## Contact
 - Mobile: +52-868-250-2172
 - e-mail: juanivancruz@me.com
+
+## Skills
+| DMAIC & Six Sigma | Statistical analysis | Machine learning | Data visualization | System Dynamics | Design thinking |
 
 ## Experience
 **KEMET a YAGEO Company**
@@ -15,7 +18,8 @@
 - Developed ML-enhanced analysis tools for NPD, RCA & traceability.
 
 **Quality Lead (May’17 – Oct’21)**
--Led Laboratory team of 22 people, improving response times and test repeatability. Started certification process for ISO/IEC 17025.
+- Tranfer of a manufacturing site that included automotive products.
+- Led Laboratory team of 22 people, improving response times and test repeatability. Started certification process for ISO/IEC 17025.
 - Led Product Quality team improving process capability.
 - Designed and built Power BI dashboards for KPI’s, RCA, product monitoring, COVID tracking, etc.
 - Implemented macros to automate the validation of equipment calibration.
@@ -38,6 +42,12 @@
 - University of Texas at Austin / Great Learning –Nov’22 - *Post-Graduate Program, Data Science and Business Analytics*. |
 - Tecnológico de Monterrey – Sep’21 - *Certificate of High Specialty in Decision Making Under Deep Uncertainty*. |
 - Tecnológico de Monterrey – Dec’09 - *Bachelor of Science in Biotechnology*. |
+
+# Licenses and certifications
+- Problem-Solving and Decision-Making – Kepner & Tregoe 
+- Lean Six Sigma Green Belt – LSS Institute
+- Certified Quality Auditor – ASQ
+- Decision Making Under Deep Uncertainty – Tec de Monterrey
 
 # Software
 | MS Office | Minitab | RStudio | Power BI  | Google Colab | Anaconda | Tableau| Enovia | AS400 | CAD |

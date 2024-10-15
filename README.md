@@ -40,7 +40,7 @@
 - Tecnológico de Monterrey – Dec’09 - *Bachelor of Science in Biotechnology*. |
 
 # Software
-| MS Office | Minitab | RStudio | Power BI  | Google Colab | Anaconda| Tableau| Enovia | AS400 | CAD |
+| MS Office | Minitab | RStudio | Power BI  | Google Colab | Anaconda | Tableau| Enovia | AS400 | CAD |
 
 # Programming languages
 | R | Visual Basic | DAX | Python | SQL |

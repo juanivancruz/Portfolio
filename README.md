@@ -72,8 +72,8 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 # Languages
 | Language |  Level  |
 | :----:   | :---    |
-| Spanish  | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-| English  | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-| Japanese | :large_blue_circle: :large_blue_circle: |
+| Spanish  | Native |
+| English  | Advanced |
+| Japanese | Basic |
 
 

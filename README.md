@@ -1,11 +1,11 @@
 # Technical Manager
-Strong focus on business goals and 14+ years of experience in Engineering. Skilled problem-solver, resource optimizer, and people developer. Achieved a manufacturing transfer involving automotive products, -61% in NPI set-up times, +15% in product FPA, and developed improved product prototypes.
+Strong focus on business goals and 14+ years of experience in Engineering. Skilled problem-solver, resource optimizer, and people developer. Achieved a manufacturing transfer involving automotive products, -61% in NPI set-up times, +15% in product FPA, and developed prototypes that improved product performance.
 ## Contact
 - Mobile: +52-868-250-2172
 - e-mail: juanivancruz@me.com
 
 ## Skills
-| DMAIC & Six Sigma | Statistical analysis | Machine learning | Data visualization | System Dynamics | Design thinking |
+| Continuous Improvement | DMAIC & Six Sigma | Statistical Analysis | Machine Learning | Data Visualization | Project Management | Design Thinking | System Dynamics |
 
 ## Experience
 **KEMET a YAGEO Company**

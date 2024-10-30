@@ -24,7 +24,7 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Designed and built Power BI dashboards for KPI’s, RCA, product monitoring, COVID tracking, etc.
 - Implemented macros to automate the validation of equipment calibration.
 
-![Summary_QL]/assets/_summary_2017_2021.JPG
+[Summary_QL]/assets/_summary_2017_2021.JPG
 
 **EATON Corporation**
 **Sr. Product Engineer (Apr’16 – May’17)**

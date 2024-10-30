@@ -48,7 +48,9 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - University of Texas at Austin / Great Learning –Nov’22 - *Post-Graduate Program, Data Science and Business Analytics*. |
 - Tecnológico de Monterrey – Sep’21 - *Certificate of High Specialty in Decision Making Under Deep Uncertainty*. |
 - Tecnológico de Monterrey – Dec’09 - *Bachelor of Science in Biotechnology*. |
+  
 ---
+
 # Licenses and certifications
 - Problem-Solving and Decision-Making – Kepner & Tregoe 
 - Lean Six Sigma Green Belt – LSS Institute
@@ -63,13 +65,11 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 ---
 
 # Programming languages
-
 | R | Visual Basic | DAX | Python | SQL |
 
 ---
 
 # Languages
-
 | Language |  Level  |
 | :----:   | :--- |
 | Spanish | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |

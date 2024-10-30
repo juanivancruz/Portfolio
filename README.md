@@ -49,7 +49,7 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Tecnológico de Monterrey – Sep’21 - *Certificate of High Specialty in Decision Making Under Deep Uncertainty*. |
 - Tecnológico de Monterrey – Dec’09 - *Bachelor of Science in Biotechnology*. |
   
----
+
 
 # Licenses and certifications
 - Problem-Solving and Decision-Making – Kepner & Tregoe 
@@ -71,9 +71,9 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 
 # Languages
 | Language |  Level  |
-| :----:   | :--- |
-| Spanish | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-| English | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
+| :----:   | :---    |
+| Spanish  | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
+| English  | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
 | Japanese | :large_blue_circle: :large_blue_circle: |
 
 

@@ -6,7 +6,9 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 
 ## Skills
 | Continuous Improvement | DMAIC & Six Sigma | Statistical Analysis | Machine Learning | Data Visualization | Project Management | Design Thinking | System Dynamics |
+
 ---
+
 ## Experience
 **KEMET a YAGEO Company**
 **Technical Manager (Sep’24 - )**
@@ -38,7 +40,9 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Managed costumer complaints, 8Ds and 5Y’s.
 - Derived mechanistic models for product failure modes and implemented preventive controls at the product-design phase.
 - Implemented macros to expedite NPI setup.
+  
 ---
+
 # Education
 - Tecnológico de Monterrey – Jul’24 – *Agile Project Management*. |
 - University of Texas at Austin / Great Learning –Nov’22 - *Post-Graduate Program, Data Science and Business Analytics*. |
@@ -50,14 +54,22 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Lean Six Sigma Green Belt – LSS Institute
 - Certified Quality Auditor – ASQ
 - Decision Making Under Deep Uncertainty – Tec de Monterrey
+  
 ---
+
 # Software
 | MS Office | Minitab | RStudio | Power BI  | Google Colab | Anaconda | Tableau| Enovia | AS400 | CAD |
+
 ---
+
 # Programming languages
+
 | R | Visual Basic | DAX | Python | SQL |
+
 ---
+
 # Languages
+
 | Language |  Level  |
 | :----:   | :--- |
 | Spanish | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |

@@ -34,6 +34,8 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Performed NPI setups, RFQs, customer and supplier contact, 2D CAD drawings, 8Ds, VAVE, BOM & special testing.
 - Implemented Excel dashboards for project tracking and automatic KPI calculation & visualization.
 
+![Sr Prod Eng](/assets/setups_Sr_Prod_Eng.png)
+
 **KEMET a YAGEO Company**
 **Product Engineer / NPI Engineer (May’11 – Apr’16)**
 - Led product and process projects improving FPA, yield, and throughput time.

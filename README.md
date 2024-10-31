@@ -76,8 +76,9 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 ---
 
 # Languages
+
 | Language |  Level  |
-| :----:   | :---    |
+| :----:   | :--- |
 | Spanish  | Native |
 | English  | Advanced |
 | Japanese | Basic |

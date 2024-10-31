@@ -42,6 +42,8 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Managed costumer complaints, 8Ds and 5Y’s.
 - Derived mechanistic models for product failure modes and implemented preventive controls at the product-design phase.
 - Implemented macros to expedite NPI setup.
+
+![Product Engineer](/assets/FPA_InhouseMaterial_2013_to_2014.JPG)
   
 ---
 

@@ -19,6 +19,8 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Improved process control through PLC tuning and equipment re-design.
 - Developed ML-enhanced analysis tools for NPD, RCA & traceability.
 
+![R&D Sr Proc Engineer](/assets/RND_Sr_Proc_Eng.JPG)
+
 **Quality Lead (May’17 – Oct’21)**
 - Tranfer of a manufacturing site that included automotive products.
 - Led Laboratory team of 22 people, improving response times and test repeatability. Started certification process for ISO/IEC 17025.

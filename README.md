@@ -38,9 +38,9 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 
 ![Sr Prod Eng](/assets/setups_Sr_Prod_Eng.png)
 
-</p>
-<img align="right" src="/assets/setups_Sr_Prod_Eng.png">
-</p>
+<p>
+<img align="center" src="/assets/setups_Sr_Prod_Eng.png">
+<p>
 
 **KEMET a YAGEO Company**
 **Product Engineer / NPI Engineer (May’11 – Apr’16)**

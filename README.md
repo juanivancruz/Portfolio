@@ -61,7 +61,6 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 - Problem-Solving and Decision-Making – Kepner & Tregoe 
 - Lean Six Sigma Green Belt – LSS Institute
 - Certified Quality Auditor – ASQ
-- Decision Making Under Deep Uncertainty – Tec de Monterrey
   
 ---
 

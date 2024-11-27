@@ -22,7 +22,7 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 ![R&D Sr Proc Engineer](/assets/RND_Sr_Proc_Eng.JPG)
 
 **Quality Lead (May’17 – Oct’21)**
-- Tranfer of a manufacturing site that included automotive products.
+- Transfer of a manufacturing site that included automotive products.
 - Led Laboratory team of 22 people, improving response times and test repeatability. Started certification process for ISO/IEC 17025.
 - Led Product Quality team improving process capability.
 - Designed and built Power BI dashboards for KPI’s, RCA, product monitoring, COVID tracking, etc.

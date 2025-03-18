@@ -1,5 +1,5 @@
 # Technical Manager
-Strong focus on business goals and 14+ years of experience in Engineering. Skilled problem-solver, resource optimizer, and people developer. Achieved a manufacturing transfer involving automotive products, -61% in NPI set-up times, +15% in product FPA, and developed prototypes that improved product performance.
+Technical Manager with a proven track record in process optimization, data-driven decision-making, and cross-functional leadership. Expertise in machine learning, quality management, and project execution, driving operational excellence and business growth.
 ## Contact
 - Mobile: +52-868-250-2172
 - e-mail: juanivancruz@me.com
@@ -12,29 +12,55 @@ Strong focus on business goals and 14+ years of experience in Engineering. Skill
 ## Experience
 **KEMET a YAGEO Company**
 **Technical Manager (Sep’24 - )**
-- Road mapping of process & product improvements for CY25.
+- Led cross-functional teams to implement process modifications, reducing deoxidation time by 20%, and boosting productivity and safety.
+- Road mapping of equipment, and process improvements for CY25 driving innovation for new product launches and product quality enhancements.
+- Led the creation of a multi-site database, integrating efforts from engineering and quality teams to accelerate Root-Cause Analysis and optimize product performance tracking.
+- Collaborated with the Quality department to design and code a statistical tool for the Change Control System, utilizing statistical methodologies to enhance the reliability of small-sample analysis.
+- Created an Excel VBA report for the testing area that enables early identification of out-of-control values and initiates test validation.
 
 **Sr. Development / Process Engineer (Oct’21- Aug’24)**
-- Prototyping and design of new products.
-- Improved process control through PLC tuning and equipment re-design.
-- Developed ML-enhanced analysis tools for NPD, RCA & traceability.
+New Product Development
+- Created a product improvement roadmap covering product design opportunities and upgraded equipment capabilities.
+- Applied supervised learning to model and predict new product design recipes.
+- Developed prototype samples with a 40% decrease in direct current leakage.
+- Applied Ordinary Differential Equations to model and simulate chemical processes.
+- Improved process control by reducing 50% of temperature variation.
+- Developed Tantalum powder prototypes with 5 times the baseline surface area of SOP products.
+
+Side projects
+- Created a R-SQL database that speeded-up 400% data preparation times PE/QA analysis protocols.
+- Coded a Shiny application in Quarto/RStudio that allowed the interactive visualization of product quality indicators through the production line.
+- Implemented a dashboard for the Manufacturing team that automatically tracks and reports On-Time Delivery, Daily Production Rate, Yield, and Throughput Time. 
+- Deployed a batch traceability dashboard in Power BI to comply with audit requirements and improve the Root-Cause Analysis process.
+- Created a dashboard template to engage the transition from Excel to Power BI for corporate HR.
+- Automated raw material waiver approval process with Power Automate.
+- Created organizational Yammer communities to spread awareness of Excel, Power BI, R, Python, and VBA productivity tools.
 
 ![R&D Sr Proc Engineer](/assets/RND_Sr_Proc_Eng.JPG)
 
 **Quality Lead (May’17 – Oct’21)**
-- Transfer of a manufacturing site that included automotive products.
-- Led Laboratory team of 22 people, improving response times and test repeatability. Started certification process for ISO/IEC 17025.
-- Led Product Quality team improving process capability.
-- Designed and built Power BI dashboards for KPI’s, RCA, product monitoring, COVID tracking, etc.
-- Implemented macros to automate the validation of equipment calibration.
+- Oversaw the product qualification process for transferring manufacturing operations from the USA to Mexico.
+- Led the Laboratory team, improving response times and test repeatability. Started certification process for ISO/IEC 
+17025.
+- Led Product Quality team improving product capability and identifying opportunities to improve product performance.
+- Designed and built Power BI dashboards for KPIs, Root-Cause Analysis, product monitoring, COVID tracking, etc.
+- Implemented macros to automate the validation of equipment calibration, eliminating human error.
+
 
 ![Summary_QL](/assets/Summary_2017_to_2021_01.JPG)
 
 **EATON Corporation**
 **Sr. Product Engineer (Apr’16 – May’17)**
-- Reduced process time of NPI set-ups by 61%.
-- Performed NPI setups, RFQs, customer and supplier contact, 2D CAD drawings, 8Ds, VAVE, BOM & special testing.
-- Implemented Excel dashboards for project tracking and automatic KPI calculation & visualization.
+- Reduced NPI setup time by 61%
+- Implemented PN with sales value of $398K 
+Activities
+- Custom / New product design
+- Process documentation
+- Cost reduction projects $82K
+- New material evaluation
+- CAD drawing creation and interpretation
+- Marketing and Customer Service liaison
+- 5S implementation
 
 ![Sr Prod Eng](/assets/setups_Sr_Prod_Eng.png)
 

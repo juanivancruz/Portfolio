@@ -92,7 +92,7 @@ Activities
 ---
 
 # Software
-| MS Office | Minitab | RStudio | Power BI  | Google Colab | Anaconda | Tableau| Enovia | AS400 | CAD |
+| MS Office | Minitab | RStudio | Power BI  | Google Colab | Anaconda | Tableau | MS Project |
 
 ---
 

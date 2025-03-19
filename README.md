@@ -1,11 +1,12 @@
 # Technical Manager
-Technical Manager with a proven track record in process optimization, data-driven decision-making, and cross-functional leadership. Expertise in machine learning, quality management, and project execution, driving operational excellence and business growth.
+Technical Manager with a proven track record in process optimization, data-driven decision-making, and cross-functional leadership. Expertise in data mining & visualization, product quality management, dashboarding, machine learning, and project execution, driving operational excellence and business growth.
+
 ## Contact
 - Mobile: +52-868-250-2172
 - e-mail: juanivancruz@me.com
 
 ## Skills
-| Continuous Improvement | DMAIC & Six Sigma | Statistical Analysis | Machine Learning | Data Visualization | Project Management | Design Thinking | System Dynamics |
+| Problem-Solving | Decision-Making | Continuous Improvement | DMAIC & Six Sigma | Statistical Analysis | Machine Learning | Data Visualization | Project Management | Design Thinking | System Dynamics |
 
 ---
 
@@ -14,7 +15,7 @@ Technical Manager with a proven track record in process optimization, data-drive
 **Technical Manager (Sep’24 - )**
 - Led cross-functional teams to implement process modifications, reducing deoxidation time by 20%, and boosting productivity and safety.
 - Road mapping of equipment, and process improvements for CY25 driving innovation for new product launches and product quality enhancements.
-- Led the creation of a multi-site database, integrating efforts from engineering and quality teams to accelerate Root-Cause Analysis and optimize product performance tracking.
+- Led the creation of a multi-site database, integrating efforts from engineering and quality teams to accelerate Root-Cause Analysis, and optimize product performance tracking using Power BI and Shiny dashboards.
 - Collaborated with the Quality department to design and code a statistical tool for the Change Control System, utilizing statistical methodologies to enhance the reliability of small-sample analysis.
 - Created an Excel VBA report for the testing area that enables early identification of out-of-control values and initiates test validation.
 
